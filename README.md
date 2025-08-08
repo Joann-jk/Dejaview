@@ -2,7 +2,7 @@
 
 
 # DejaView 🔮
-
+#### Basic Details
 
 ### Team Name: Glitch Witches  
 
@@ -44,4 +44,36 @@ For Software:
 ```bash
 git clone https://github.com/Joannjk/dejaview.git
 cd dejaview
-npm install
+
+```
+
+#### Run
+``` bash
+npm i
+npm run dev
+```
+#### Project Documentation
+For Software:
+
+# Screenshots
+<img width="1833" height="910" alt="image" src="https://github.com/user-attachments/assets/8c594b36-013b-4b5e-9cf9-2c17d81af44c" />
+<img width="1895" height="999" alt="image" src="https://github.com/user-attachments/assets/4c13c10f-b3c2-442d-8098-263ea423b50e" />
+<img width="1822" height="910" alt="image" src="https://github.com/user-attachments/assets/52e4052a-ccf9-485a-a9d1-cf606badba9b" />
+
+
+### Diagrams
+
+<img width="1314" height="425" alt="image" src="https://github.com/user-attachments/assets/5c2a2e3a-8312-4e1d-9474-8d555f7990a2" />
+
+### Project Demo 
+### Video 
+### Team Contributions
+Joann J Koodathil - Programming  <br>
+Fidha Ahamed - UI/UX
+
+
+Made with ❤️ at TinkerHub Useless Projects 
+
+![Static Badge](https://img.shields.io/badge/TinkerHub-24?color=%23000000&link=https%3A%2F%2Fwww.tinkerhub.org%2F)
+![Static Badge](https://img.shields.io/badge/UselessProjects--25-25?link=https%3A%2F%2Fwww.tinkerhub.org%2Fevents%2FQ2Q1TQKX6Q%2FUseless%2520Projects)
+
